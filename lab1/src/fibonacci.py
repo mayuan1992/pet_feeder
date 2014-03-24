@@ -24,7 +24,7 @@ def fib(order):
 if __name__ == '__main__':
     # get the series order as a string
     order_as_string =  raw_input  ("Insert the Fibonacci's series order:\n>")
-    
+    ##rawinput的输出只能是string？？
     # convert the string to an integer number
     order = int(order_as_string)
     
