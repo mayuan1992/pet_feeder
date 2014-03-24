@@ -1,8 +1,3 @@
-'''
-Created on 2014Äê3ÔÂ24ÈÕ
-
-@author: MAYUAN
-'''
 
 def fix_start(string):
     # replace all the characters equal to the first

@@ -1,8 +1,4 @@
-'''
-Created on 2014Äê3ÔÂ24ÈÕ
 
-@author: MAYUAN
-'''
 def fib(order):
     # initialization, we use a tuple
     a = (0, 1)
