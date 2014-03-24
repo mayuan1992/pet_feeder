@@ -1,3 +1,9 @@
+'''
+Created on Mar 18, 2014
+
+@author: Dario Bonino <dario.bonino@polito.it>
+'''
+
 def both_ends(string):
     # if the string has more than 2 chars, return only the first and the last 2
     if(len(string) > 2):
