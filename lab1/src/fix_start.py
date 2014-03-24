@@ -1,3 +1,8 @@
+'''
+Created on Mar 18, 2014
+
+@author: Dario Bonino <dario.bonino@polito.it>
+'''
 
 def fix_start(string):
     # replace all the characters equal to the first
